@@ -4,9 +4,9 @@ University project for the Artificial Intelligence course. The aim of the projec
 ## Concept & Approach
 The project is based on the core principle of AdaBoost, which involves fitting a sequence of weak learners (e.g., base classifiers like decision trees) on repeatedly re-sampled versions of the data. Each sample is assigned a weight that is adjusted after each training step so that misclassified samples receive higher weights. Samples with higher weights have a greater chance of being selected multiple times in the new data set. <br><br>
 Additionally, the project compares the accuracy of the boosted classifiers and provides the best obtained results. The results were obtained using three files:
-- [_grid_search.py_]()
-- [_classifiers_comparison.py_]()
-- [_adaboost.py_]()
+- [_grid_search.py_](https://github.com/MajewskaM/AI-AdaBoostFaceRecognition/blob/main/grid_search.py)
+- [_classifiers_comparison.py_](https://github.com/MajewskaM/AI-AdaBoostFaceRecognition/blob/main/classifiers_comparison.py)
+- [_adaboost.py_](https://github.com/MajewskaM/AI-AdaBoostFaceRecognition/blob/main/adaboost.py)
 
 ## Functions developed
 1. **load_data(source_directory, no_faces)**
