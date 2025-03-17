@@ -237,4 +237,3 @@ The summary of accuracies obtained by the hyperparameter-tuned classifiers on th
 Also used:
 - model.fit(X, y): Trains the model using the provided features (X) and labels (y).
 - model.predict(X): Predicts the labels for the provided features (X) based on the trained model.
-- 
