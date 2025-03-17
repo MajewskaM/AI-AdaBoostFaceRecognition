@@ -45,7 +45,7 @@ Shape of test label:  (138,)
 ```
 
 1.	DecisionTreeClassifier
-<img src="https://github.com/user-attachments/assets/b343ae1e-bafe-430d-a669-e0a365c49b99" alt="DecisionTree" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/b343ae1e-bafe-430d-a669-e0a365c49b99" alt="DecisionTree" width="380" height="300">
 <br>
 
 ```
@@ -57,7 +57,7 @@ Best Score for DecisionTree: 0.828381267003498
 ```
 
 2.	LogisticRegression
-<img src="https://github.com/user-attachments/assets/9842fd84-9c7a-4261-b034-bc1a97b0944f" alt="LogisticRegression" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/9842fd84-9c7a-4261-b034-bc1a97b0944f" alt="LogisticRegression" width="380" height="300">
 <br>
 
 ```
@@ -68,7 +68,7 @@ Best Score for LogisticRegression: 0.894448762793108
 ```
 
 3.	RandomForestClassifier
-<img src="https://github.com/user-attachments/assets/fd10dad5-ca1f-4118-8cd1-52dae21a5928" alt="LogisticRegression" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/fd10dad5-ca1f-4118-8cd1-52dae21a5928" alt="LogisticRegression" width="380" height="300">
 <br>
 
 ```
@@ -80,7 +80,7 @@ Best Score for RandomForestClassifier: 0.8478260869565217
 ```
 
 4.	LinearSVC
-<img src="https://github.com/user-attachments/assets/360d16e2-21f7-47e8-a08c-7186f94fec7e" alt="LogisticRegression" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/360d16e2-21f7-47e8-a08c-7186f94fec7e" alt="LogisticRegression" width="380" height="300">
 <br>
 
 ```
@@ -92,7 +92,7 @@ Best Score for LinearSVC: 0.9057971014492754
 
 
 5.	SGDClassifier
-<img src="https://github.com/user-attachments/assets/313b8f3c-df22-4fcb-980f-47a265ca0ce9" alt="LogisticRegression" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/313b8f3c-df22-4fcb-980f-47a265ca0ce9" alt="LogisticRegression" width="380" height="300">
 <br>
 
 ```
